@@ -14,3 +14,8 @@ The game is a race between 7 turtles; you have to bet on the turtle that would w
 ## Day 20
 Created the basic functionality for a snake game. Not yet done with the whole game.
 I would finish up tomorrow! Let's get it!
+
+
+## Day 21
+Finished the snake game.
+I would try and add some customizations and cheats to make it more interesting!
