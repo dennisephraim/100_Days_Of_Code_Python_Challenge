@@ -24,3 +24,8 @@ I would try and add some customizations and cheats to make it more interesting!
 ## Day 22
 This pong game took a long time. I was introduced to a lot of concepts
 But it was great finishing challenge.
+
+
+## Day 23
+Finished the turtle crossing capstone project. I need to review a lot of things
+I need motivation to complete this challenge
