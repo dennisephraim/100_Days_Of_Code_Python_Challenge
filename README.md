@@ -29,3 +29,9 @@ But it was great finishing challenge.
 ## Day 23
 Finished the turtle crossing capstone project. I need to review a lot of things
 I need motivation to complete this challenge
+
+
+## Day 24
+I learnt about creating, writing and reading a file in python.
+It was great experience
+Let's Go!!!
