@@ -34,8 +34,7 @@ while len(check) != 50:
         write_turtle.write(f"{answer_state}")
         check.append(list_c[0])
 
-for element in check:
-    all_states.remove(element)
+missing_states = [state for state in all_states if state not in check]
 
-states_to_learn = pandas.DataFrame(all_states)
+states_to_learn = pandas.DataFrame(missing_states)
 states_to_learn.to_csv('states_to_learn.csv')
